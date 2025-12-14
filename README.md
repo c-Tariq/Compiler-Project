@@ -1,6 +1,7 @@
 # Compiler Project
 
 A simple compiler that performs lexical analysis, parsing, and code generation.
+
 **Note:** This project was developed as coursework for a compiler design course at college.
 
 ## Project Structure
