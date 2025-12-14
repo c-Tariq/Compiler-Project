@@ -1,0 +1,40 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Generated output files
+output/
+*.txt
+*.err
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp

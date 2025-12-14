@@ -1,0 +1,4 @@
+^ These are examples you can try:
+^ x = 5 + 3;
+^ y = x * 2;
+^ while (x) do x = x - 1;
