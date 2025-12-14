@@ -54,7 +54,7 @@ gcc -I./include ./src/main.c -o compiler.exe
 ## Language Features
 
 - **Variables**: `identifier = expression;`
-- **Numbers**: `123`, `456`
+- **Numbers**: `Any integer value`
 - **Arithmetic**: `+`, `-`, `*`, `/`, `div`, `mod`
 - **Parentheses**: `(expression)`
 - **If-then**: `if (expr) then stmt`
